@@ -19,13 +19,6 @@
  *
  */
 	define('ENVIRONMENT', 'development');
-	echo "this is test code";
-	echo "rrr";
-	echo "this is again testing going on here";
-	echo "fff";
-	echo "yu";
-	echo "hh";
-	echo "d"; 
 
 /*
  *---------------------------------------------------------------
