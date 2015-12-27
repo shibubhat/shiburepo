@@ -20,9 +20,11 @@
  */
 	define('ENVIRONMENT', 'development');
 	echo "this is test code";
+	echo "this is again testing going on here";
 	echo "fff";
 	echo "hh";
 	echo "d"; 
+
 /*
  *---------------------------------------------------------------
  * ERROR REPORTING
